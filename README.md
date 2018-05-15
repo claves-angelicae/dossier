@@ -44,7 +44,8 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 
 
-### Steps
+
+### Experience Steps
 
 #### o. Initiation
 
