@@ -24,9 +24,7 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
 ### Assets
 
-- [Presskit (ZIP)](https://github.com/quilime/claves-angelicae-presskit/archive/master.zip)
-
-- [Info Sheet (PDF)](assets/claves_angelicae_info_sheet.pdf)
+- [Info Sheet (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_info_sheet.pdf)
 - [Logo (Black)](assets/claves_angelicae_sigil_B.png)
 - [Logo (White)](assets/claves_angelicae_sigil_B.png)
 - [LogoType (Black)](assets/claves_logo_B.png)
