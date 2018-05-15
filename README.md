@@ -4,12 +4,12 @@
 
 ###### Creation, Design, and Development
 
-Cullen Miller
-http://pointlinesurface.com
+Cullen Miller  
+http://pointlinesurface.com  
 @cullenmiller 
 
-Gabriel Dunne
-http://gabrieldunne.com
+Gabriel Dunne  
+http://gabrieldunne.com  
 @gabrieldunne / @quilime
 
 ###### Interactive programming
