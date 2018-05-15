@@ -1,6 +1,6 @@
 # Claves Angelicæ
 
-<img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="256">
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="256"></a>
 
 ### About
 
@@ -21,6 +21,18 @@ Harvey Moon
 ### Created with
 
 Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
+
+### Assets
+
+- [Info Sheet (PDF)](assets/claves_angelicae_info_sheet.pdf)
+- [Logo (Black)](assets/claves_angelicae_sigil_B.png)
+- [Logo (White)](assets/claves_angelicae_sigil_B.png)
+- [LogoType (Black)](assets/claves_logo_B.png)
+- [LogoType (White)](assets/claves_logo_W.png)
+- [Installation Flow](assets/flow.png)
+- [Installation Layout (2D)](assets/install2d.png)
+- [Installation Layout (3D)](assets/install3d.png)
+- [Sigil Encryption](assets/sigil.png)
 
 ### Project statement (short)
 
@@ -44,8 +56,17 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 ### Installation Format
 
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
 
 ### Experience Steps
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"></a>
+
+### Experience Requirements for Attendees
+
+In order to cast their Word or Desire to the Ethereum blockchain and complete the experience, the viewer will need to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that at minimum covers the transaction costs of the transaction, which varies.
 
 #### o. Initiation
 
@@ -70,3 +91,17 @@ contract daemon is invoked to route the Word to its destination. This destinatio
 
 #### vi. Sigil
 The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word's transaction record on Ethereum's public ledger.
+
+### Sigil Generation
+
+Sigils are generated with a bespoke graphical encryption algorythm developed by the Artists.
+
+1. Word or phrase is entered in by the viewer.
+2. The Word or Phrase is hashed with sha256
+3. Every 10th character of the hash is appended to a new string until the string is 10 chars long.
+4. This 10-char string is used to trace a graphical sigil with the Alphabet of Desire, as shown below
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"></a>
+
+
+
