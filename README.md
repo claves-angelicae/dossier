@@ -1,6 +1,6 @@
 # Claves Angelicæ
 
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="256"></a>
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 
 ### About
 
@@ -32,22 +32,13 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 - [Installation Flow](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/flow.png)
 - [Installation Layout (2D)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/install2d.png)
 - [Installation Layout (3D)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/install3d.png)
+- [Installation (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
+- [Interaction Flow (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/interaction_flow.pdf)
 - [Sigil Encryption](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/sigil.png)
 
 ### Project statement (short)
 
 Claves Angelicæ is a procedure for constructing, enciphering, and casting a magical Word onto the Ethereum network. After the transaction is verified it is parsed and passed into a sigil generating algorithm and an inked paper talisman is drawn by a machine as a token of their spell.
-
-### Artist Group Bio (short)
-
-Our work probes into immaterial processes leveraging computational materials as a vehicle into complexity; our aesthetics tend to be emergent unknowns retrieved from systems. Rather than constructing defined forms we use generative machine processes as a way of excavating ideas from the Outside.
-
-### Installation Rider / Requirements
-
-- Dedicated internet connection
-- Power drop (1x 120v AC)
-- Folding table with 2x black chairs and black tablecloth
-- Installation area with floorspace of minimum 14 sq feet
 
 ### Project statement (long)
 
@@ -67,7 +58,11 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
 
+[PDF](assets/experience.pdf)
+
 ### Experience Steps
+
+[PDF](assets/experience_design.pdf)
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"></a>
 
@@ -109,4 +104,33 @@ Sigils are generated with a bespoke graphical encryption algorithm developed by 
 
 In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the transaction costs of the transaction, which will vary depending on the network load.
 
+### Installation Rider / Requirements
 
+- Dedicated internet connection
+- Power drop (1x 120v AC)
+- Folding table with 2x black chairs and black tablecloth
+- Installation area with floorspace of minimum 14 sq feet
+
+### Group Collective Statement (short)
+
+Gabriel Dunne and Cullen Miller are collaborators often found working within the confines of art. Respectively drawing from their backgrounds in design and music composition their practice is an assemblage of various forms of media finding mutuality in a search for the Outside. 
+
+Their projects and performances are typified by creating technical systems that defy bounded rationality. Their work probes into subconscious immaterial processes by leveraging computational materials as a vehicle into complexity. Their aesthetics are typically not constrained by a controlled practice but, rather, tend to be emergent unknowns retrieved from systems. Rather than setting forth to construct a preordained form their practice typically involves tending generative machine processes as a way of excavating ideas from the Outside.
+
+### Biography
+ 
+#### Cullen Miller 
+
+Cullen Miller works in the substratum of aesthetics. Typified by dematerialization, his practice is often intangible or invisible and is characterized by and embodied in systems, music composition, emergence, and philosophy. His interests are expressed through open-ended, temporal models rather than encapsulated into monistic objects. His work tends to resist reductive constraints and tends to be experiential - using relationships and networks to unmask behaviors latent within his systems. By leveraging parametric and cybernetic processes his installations and performances resemble 'tuned' physics flowing through sets of rules. What emerges from the environments rarely have identical outcomes but, instead, are defined by a set of properties that generated by complex webs of feedback.
+
+[CV](https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/Cullen_Miller_CV.pdf)  
+www: http://pointlinesurface.com  
+social: @cullenmiller 
+
+#### Gabriel Dunne
+
+Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. 
+
+[CV](https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/Gabriel_Dunne_CV.pdf)  
+www: http://gabrieldunne.com  
+social: @gabrieldunne / @quilime
