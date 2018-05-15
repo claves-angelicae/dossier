@@ -25,14 +25,14 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 ### Assets
 
 - [Info Sheet (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_info_sheet.pdf)
-- [Logo (Black)](assets/claves_angelicae_sigil_B.png)
-- [Logo (White)](assets/claves_angelicae_sigil_B.png)
-- [LogoType (Black)](assets/claves_logo_B.png)
-- [LogoType (White)](assets/claves_logo_W.png)
-- [Installation Flow](assets/flow.png)
-- [Installation Layout (2D)](assets/install2d.png)
-- [Installation Layout (3D)](assets/install3d.png)
-- [Sigil Encryption](assets/sigil.png)
+- [Logo (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
+- [Logo (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
+- [LogoType (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_B.png)
+- [LogoType (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_W.png)
+- [Installation Flow](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/flow.png)
+- [Installation Layout (2D)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/install2d.png)
+- [Installation Layout (3D)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/install3d.png)
+- [Sigil Encryption](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/sigil.png)
 
 ### Project statement (short)
 
