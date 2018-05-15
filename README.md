@@ -2,7 +2,7 @@
 
 ### About
 
-###### Creation, Design, and Development
+#### Creation, Design, and Development
 
 Cullen Miller  
 http://pointlinesurface.com  
@@ -12,16 +12,23 @@ Gabriel Dunne
 http://gabrieldunne.com  
 @gabrieldunne / @quilime
 
-###### Interactive programming
+#### Interactive programming
 
 Harvey Moon
   
-###### Created with
+### Created with
 
 Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
+### Project statement (short)
 
-### Description
+Claves Angelicæ is a procedure for constructing, enciphering, and casting a magical Word onto the Ethereum network. After the transaction is verified it is parsed and passed into a sigil generating algorithm and an inked paper talisman is drawn by a machine as a token of their spell.
+
+### Artist Group Bio (short)
+
+Our work probes into immaterial processes leveraging computational materials as a vehicle into complexity; our aesthetics tend to be emergent unknowns retrieved from systems. Rather than constructing defined forms we use generative machine processes as a way of excavating ideas from the Outside.
+
+### Project statement (long)
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
