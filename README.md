@@ -1,9 +1,6 @@
 # Claves Angelicæ
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
-
-[Download Dossier](https://github.com/claves-angelicae/dossier/archive/master.zip)
-
 ### About
 
 #### Creation, Design, and Development
@@ -34,6 +31,8 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 - [Logo (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
 - [LogoType (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_B.png)
 - [LogoType (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_W.png)
+
+[Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
 
 
 ### Project statement (short)
