@@ -1,4 +1,4 @@
-# Claves Angelicæ
+# [Claves Angelicæ](https://claves-angelicae.github.io/dossier/)
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 ### About
@@ -132,6 +132,11 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 [Download CV (PDF)](https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/Gabriel_Dunne_CV.pdf)  
 [gabrieldunne.com](http://gabrieldunne.com)  
 [@gabrieldunne](https://twitter.com/gabrieldunne)  
+
+
+### Exhibition History
+
+- 2018 Ethereal Summit, Knockdown Center, Brooklyn NY
 
 ---
 
