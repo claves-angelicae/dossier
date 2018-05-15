@@ -42,6 +42,13 @@ Claves Angelicæ is a procedure for constructing, enciphering, and casting a mag
 
 Our work probes into immaterial processes leveraging computational materials as a vehicle into complexity; our aesthetics tend to be emergent unknowns retrieved from systems. Rather than constructing defined forms we use generative machine processes as a way of excavating ideas from the Outside.
 
+### Installation Rider / Requirements
+
+- Dedicated internet connection
+- Power drop (1x 120v AC)
+- Folding table with 2x black chairs and black tablecloth
+- Installation area with floorspace of minimum 14 sq feet
+
 ### Project statement (long)
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
@@ -63,10 +70,6 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 ### Experience Steps
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"></a>
-
-### Experience Requirements for Attendees
-
-In order to cast their Word or Desire to the Ethereum blockchain and complete the experience, the viewer will need to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that at minimum covers the transaction costs of the transaction, which varies.
 
 #### o. Initiation
 
@@ -103,5 +106,8 @@ Sigils are generated with a bespoke graphical encryption algorythm developed by 
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"></a>
 
+### Experience Requirements for Attendees
+
+In order to cast their Word or Desire to the Ethereum blockchain and complete the experience, the viewer will need to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that at minimum covers the transaction costs of the transaction, which will vary depending on the network load.
 
 
