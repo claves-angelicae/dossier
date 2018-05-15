@@ -4,8 +4,13 @@
 
 ###### Creation, Design, and Development
 
-- Cullen Miller (@cullenmiller)
-- Gabriel Dunne (@gabrieldunne)
+Cullen Miller
+http://pointlinesurface.com
+@cullenmiller 
+
+Gabriel Dunne
+http://gabrieldunne.com
+@gabrieldunne / @quilime
 
 ###### Interactive programming
 
