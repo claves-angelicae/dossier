@@ -52,11 +52,12 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 ### Installation Format
 
+[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/assets/experience.pdf)
+
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
 
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/assets/experience.pdf)
 
 ### Experience Steps
 
@@ -88,6 +89,8 @@ contract daemon is invoked to route the Word to its destination. This destinatio
 The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word's transaction record on Ethereum’s public ledger.
 
 ### Sigil Generation
+
+[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/rose_cross.pdf)
 
 Sigils are generated with a bespoke graphical encryption algorithm developed by the Artists.
 
