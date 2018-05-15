@@ -14,17 +14,11 @@ http://gabrieldunne.com
 
 ###### Interactive programming
 
- - Harvey Moon
+Harvey Moon
   
 ###### Created with
 
-- Ethereum
-- Solidity
-- Python
-- JavaScript
-- Node.js
-- TouchDesigner
-- Leap Motion
+Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
 
 ### Description
