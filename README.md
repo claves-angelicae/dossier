@@ -1,5 +1,7 @@
 # Claves Angelicæ
 
+<img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="256">
+
 ### About
 
 #### Creation, Design, and Development
@@ -41,8 +43,6 @@ For common parlance let’s define what a sigil is: the encoding of desire or in
 Centralized authorities and trusted-third parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. "In God WeT rust") where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without permission.
 
 ### Installation Format
-
-
 
 
 ### Experience Steps
