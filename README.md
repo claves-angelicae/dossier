@@ -59,7 +59,7 @@ The daemon listening for the cryptographically signed acknowledgement of transfe
 
 ### Sigil Generation
 
-Sigils are generated with a bespoke graphical encryption algorithm developed by the Artists.
+Sigils are generated with a graphical encryption algorithm based on the Rose Cross.
 
 1. Word or phrase is entered in by the viewer.
 2. The Word or Phrase is hashed with sha256
