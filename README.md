@@ -8,15 +8,15 @@ permalink: index.html
 
 <a class="sigil" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 
-### Project Blurb
+## Project Blurb
 
 Claves Angelicae is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
-### Project Statement (short)
+## Project Statement (short)
 
 Claves Angelicæ is a procedure for constructing, enciphering, and casting a magical Word onto the Ethereum network. After the transaction is verified it is parsed and passed into a sigil generating algorithm and an inked paper talisman is drawn by a machine as a token of their spell.
 
-### Project Statement (long)
+## Project Statement (long)
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
@@ -28,36 +28,36 @@ For common parlance let’s define what a sigil is: the encoding of desire or in
 
 Centralized authorities and trusted-third parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. "In God We Trust") where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without permission.
 
-### Experience
+## Experience
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"></a>
 
-#### o. Initiation
+### o. Initiation
 Claves Angelicæ is a seven step process to guide one through the process of securely constructing a Word with an ‘Alphabet of Desire.’ This Alphabet of Desire is a mediation with one’s own libidinal framework. Magic has many aspects, but it primarily acts as a dramatized system of psychology. It is the science and art of causing change to occur in conformity with one’s Will. A magical spell is quite literally the spelling out of a Word. Once the Word is constructed within oneself it is set in motion by bringing it forth into grammar and sound. When completed one must seal it and cast it out into the Ethereum network.
 
-#### i. Banishing
+### i. Banishing
 Everyone has a natural fortress within themselves: the Soul impregnable. However beyond this central citadel, one also has outerworks which are vulnerable and susceptible to violation. Banishing rites are twofold: Firstly, it provides a cleansing and maintenance of the walls of the fortress. Secondly, it operates as a firewall for the body and the space surrounding it. This allows for secure outbound transmissions of magical Words (spells) while fortifying and consecrating the Magician in a bastion away from exploits and malicious attacks.
 
 
-#### ii. Logos
+### ii. Logos
 “In the beginning there was the Word (Logos).” A Word is twofold: internal and uttered. An internal Word is a conception of the mind, and motion of the soul, which is made without a voice. The Word is to be silently contemplated. The Logos is the generative principle with which impregnates potentiality. The semiotics of magic are thus: the map is not the territory. The Name is the thing itself.
 
-#### iii. Incantation
+### iii. Incantation
 The Word is twofold: internal and uttered. An uttered word is the internal Word brought forth through breath into vibration. Through this act of locution the Will sets the Word in motion. Incantation is derived from the Latin ‘incantare’ meaning "to enchant, cast a spell." The infamous magical word ‘Abracadabra’ derived from the Aramaic meaning "I create as I speak." All communication contains sorcery because humans use a variety of noises to create a semantic grid projected upon incidents and events. These grids are generally called languages. Language is the material mediation between subconscious desires and the conscious mind. And Will is encoded into language for transmission. It is by Will alone that the Word is set in motion.
 
-#### iv. Seal
+### iv. Seal
 Sealing is the act of encrypting a message. This is done through the process of transmuting the Word into a graphical sigil by tracing the path on the map of the Alphabet of Desire. The map that underlies the path that the line follows is defined by the Rosy Cross and holds the majestic alphabet of the ancient magi.
 
-#### v. Casting
+### v. Casting
 Once the Word has been synthesized and prepared for secure transmission on the network it must be activated by casting it out. Once the spell is cast a smart
 contract daemon is invoked to route the Word to its destination. This destination address is assigned by selecting a cardinal direction to where the Word is to be cast. After the spell is completed the Word is inscribed onto the distributed ledger of the Ethereum network.
 
-#### vi. Sigil
+### vi. Sigil
 The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word's transaction record on Ethereum’s public ledger.
 
-### Sigil Generation
+## Sigil Generation
 
 Sigils are generated with a graphical encryption algorithm based on the Rosy Cross.
 
@@ -68,34 +68,34 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"></a>
 
-### Installation Format
+## Installation Format
 
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 
-#### 2D Plan
+### 2D Plan
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"></a>
 
-#### 3D Iso
+### 3D Iso
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install3d.png"></a>
 
 
-### Experience Requirements for Attendees
+## Experience Requirements for Attendees
 
 In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the costs of the transaction, which will vary depending on the network load. Some mobile Ethereum wallet solutions include Trust Wallet, Toshi, Ethereum Wallet by Freewallet, Coinbase, and more.
 
-### Installation Rider / Requirements
+## Installation Rider / Requirements
 
 - Dedicated internet connection
 - Power drop (1x 120v AC)
 - Folding table with 2x black chairs and black tablecloth
 - Installation area with floorspace of minimum 14 sq feet
 
-### About
+## About
 
-#### Creation, Design, and Development
+### Creation, Design, and Development
 
 Cullen Miller  
 [pointlinesurface.com](http://pointlinesurface.com)  
@@ -105,15 +105,15 @@ Gabriel Dunne
 [gabrieldunne.com](http://gabrieldunne.com)  
 [@gabrieldunne](https://twitter.com/gabrieldunne)
 
-#### Interactive programming
+### Interactive programming
 
 Harvey Moon
   
-#### Created with
+### Created with
 
 Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
-### Assets
+## Assets
 
 [Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
 
@@ -126,15 +126,15 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 - [LogoType (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png)
 - [LogoType (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_W.png)
 
-### Group Collective Statement (short)
+## Group Collective Statement (short)
 
 Gabriel Dunne and Cullen Miller are collaborators often found working within the confines of art. Respectively drawing from their backgrounds in design and music composition their practice is an assemblage of various forms of media finding mutuality in a search for the Outside. 
 
 Their projects and performances are typified by creating technical systems that defy bounded rationality. Their work probes into subconscious immaterial processes by leveraging computational materials as a vehicle into complexity. Their aesthetics are typically not constrained by a controlled practice but, rather, tend to be emergent unknowns retrieved from systems. Rather than setting forth to construct a preordained form their practice typically involves tending generative machine processes as a way of excavating ideas from the Outside.
 
-### Biography
+## Biography
  
-#### Cullen Miller 
+### Cullen Miller 
 
 Cullen Miller works in the substratum of aesthetics. Typified by dematerialization, his practice is often intangible or invisible and is characterized by and embodied in systems, music composition, emergence, and philosophy. His interests are expressed through open-ended, temporal models rather than encapsulated into monistic objects. His work tends to resist reductive constraints and tends to be experiential - using relationships and networks to unmask behaviors latent within his systems. By leveraging parametric and cybernetic processes his installations and performances resemble 'tuned' physics flowing through sets of rules. What emerges from the environments rarely have identical outcomes but, instead, are defined by a set of properties that generated by complex webs of feedback.
 
@@ -142,7 +142,7 @@ Cullen Miller works in the substratum of aesthetics. Typified by dematerializati
 [pointlinesurface.com](http://pointlinesurface.com)  
 [@cullenmiller](https://twitter.com/cullenmiller)   
 
-#### Gabriel Dunne
+### Gabriel Dunne
 
 Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. 
 
@@ -151,7 +151,7 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 [@gabrieldunne](https://twitter.com/gabrieldunne)  
 
 
-### Exhibition History
+## Exhibition History
 
 - 2018, May 11-12, [Ethereal Summit](https://etherealsummit.com/), Knockdown Center, Brooklyn NY
 
