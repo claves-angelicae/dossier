@@ -26,15 +26,7 @@ For common parlance let’s define what a sigil is: the encoding of desire or in
 
 Centralized authorities and trusted-third parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. "In God We Trust") where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without permission.
 
-### Installation Format
-
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
-
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
-
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
-
-### Experience Steps
+### Experience
 
 [Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience_design.pdf)
 
@@ -73,6 +65,14 @@ Sigils are generated with a bespoke graphical encryption algorithm developed by 
 4. This 10-char string is used to trace a graphical sigil with the Alphabet of Desire, as shown below
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/sigil.png"></a>
+
+### Installation Format
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
+
+[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
 
 ### Experience Requirements for Attendees
 
