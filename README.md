@@ -8,13 +8,15 @@ permalink: index.html
 
 <a class="sigil" href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 
+### Project Blurb
+
 Claves Angelicae is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
-### Project statement (short)
+### Project Statement (short)
 
 Claves Angelicæ is a procedure for constructing, enciphering, and casting a magical Word onto the Ethereum network. After the transaction is verified it is parsed and passed into a sigil generating algorithm and an inked paper talisman is drawn by a machine as a token of their spell.
 
-### Project statement (long)
+### Project Statement (long)
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
