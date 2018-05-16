@@ -7,38 +7,8 @@ permalink: index.html
 </div>
 
 <a class="sigil" href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
-### About
 
-#### Creation, Design, and Development
-
-Cullen Miller  
-[pointlinesurface.com](http://pointlinesurface.com)  
-[@cullenmiller](https://twitter.com/cullenmiller)   
-
-Gabriel Dunne  
-[gabrieldunne.com](http://gabrieldunne.com)  
-[@gabrieldunne](https://twitter.com/gabrieldunne)
-
-#### Interactive programming
-
-Harvey Moon
-  
-#### Created with
-
-Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
-
-### Assets
-
-[Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
-
-- [Info Sheet (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_info_sheet.pdf)
-- [Installation (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
-- [Interaction Flow (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/interaction_flow.pdf)
-- [Sigil Encryption (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/rose_cross.pdf)
-- [Logo (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
-- [Logo (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
-- [LogoType (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_B.png)
-- [LogoType (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_W.png)
+Claves Angelicae is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
 ### Project statement (short)
 
@@ -114,6 +84,39 @@ In order to cast their Word or desire to Ethereum’s distributed ledger and com
 - Power drop (1x 120v AC)
 - Folding table with 2x black chairs and black tablecloth
 - Installation area with floorspace of minimum 14 sq feet
+
+### About
+
+#### Creation, Design, and Development
+
+Cullen Miller  
+[pointlinesurface.com](http://pointlinesurface.com)  
+[@cullenmiller](https://twitter.com/cullenmiller)   
+
+Gabriel Dunne  
+[gabrieldunne.com](http://gabrieldunne.com)  
+[@gabrieldunne](https://twitter.com/gabrieldunne)
+
+#### Interactive programming
+
+Harvey Moon
+  
+#### Created with
+
+Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
+
+### Assets
+
+[Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
+
+- [Info Sheet (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_info_sheet.pdf)
+- [Installation (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
+- [Interaction Flow (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/interaction_flow.pdf)
+- [Sigil Encryption (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/rose_cross.pdf)
+- [Logo (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
+- [Logo (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
+- [LogoType (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_B.png)
+- [LogoType (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_W.png)
 
 ### Group Collective Statement (short)
 
