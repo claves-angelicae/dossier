@@ -30,7 +30,7 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 ### Experience
 
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience_design.pdf)
+[Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"></a>
 
@@ -71,7 +71,7 @@ Sigils are generated with a graphical encryption algorithm based on the Rose Cro
 ### Installation Format
 
 
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
+[Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 
 #### 2D Plan
 
@@ -117,14 +117,14 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
 [Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
 
-- [Info Sheet (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_info_sheet.pdf)
-- [Installation (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
-- [Interaction Flow (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/interaction_flow.pdf)
-- [Sigil Encryption (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/rose_cross.pdf)
-- [Logo (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
-- [Logo (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_angelicae_sigil_B.png)
-- [LogoType (Black)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_B.png)
-- [LogoType (White)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/claves_logo_W.png)
+- [Info Sheet (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_info_sheet.pdf)
+- [Installation (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
+- [Interaction Flow (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
+- [Sigil Encryption (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/rose_cross.pdf)
+- [Logo (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png)
+- [Logo (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_W.png)
+- [LogoType (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png)
+- [LogoType (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_W.png)
 
 ### Group Collective Statement (short)
 
