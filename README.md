@@ -1,4 +1,4 @@
-# [Claves Angelicæ](https://claves-angelicae.github.io/dossier/)
+<img width="550" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_logo_B.png" />
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 ### About
