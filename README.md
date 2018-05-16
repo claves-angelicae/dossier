@@ -136,7 +136,7 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 
 ### Exhibition History
 
-- 2018 Ethereal Summit, Knockdown Center, Brooklyn NY
+- 2018, May 11-12, [Ethereal Summit](https://etherealsummit.com/), Knockdown Center, Brooklyn NY
 
 ---
 
