@@ -59,7 +59,7 @@ The daemon listening for the cryptographically signed acknowledgement of transfe
 
 ### Sigil Generation
 
-Sigils are generated with a graphical encryption algorithm based on the Rose Cross.
+Sigils are generated with a graphical encryption algorithm based on the Rosy Cross.
 
 1. Word or phrase is entered in by the viewer.
 2. The Word or Phrase is hashed with sha256
@@ -84,7 +84,7 @@ Sigils are generated with a graphical encryption algorithm based on the Rose Cro
 
 ### Experience Requirements for Attendees
 
-In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the transaction costs of the transaction, which will vary depending on the network load. Some solutions include Trust Ethereum Wallet, Toshi, Ethereum Wallet by Freewallet, Coinbase, and others.
+In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the costs of the transaction, which will vary depending on the network load. Some mobile Ethereum wallet solutions include Trust Wallet, Toshi, Ethereum Wallet by Freewallet, Coinbase, and more.
 
 ### Installation Rider / Requirements
 
