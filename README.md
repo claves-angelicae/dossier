@@ -1,6 +1,12 @@
+---
+layout: default
+permalink: README.html
+---
+<div class="header">
 <img width="550" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_logo_B.png" />
+</div>
 
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
+<a class="sigil" href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 ### About
 
 #### Creation, Design, and Development
@@ -17,7 +23,7 @@ Gabriel Dunne
 
 Harvey Moon
   
-### Created with
+#### Created with
 
 Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
 
@@ -140,5 +146,7 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 
 ---
 
-claves angelicæ 2018
+<footer>
+claves angelicæ, 2018
+</footer>
 
