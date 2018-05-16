@@ -70,15 +70,21 @@ Sigils are generated with a graphical encryption algorithm based on the Rose Cro
 
 ### Installation Format
 
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
-
-<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
 
 [Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
 
+#### 2D Plan
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install2d.png"></a>
+
+#### 3D Iso
+
+<a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
+
+
 ### Experience Requirements for Attendees
 
-In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the transaction costs of the transaction, which will vary depending on the network load.
+In order to cast their Word or desire to Ethereum’s distributed ledger and complete the experience, the participant is required to prepare and be familiar with using a mobile wallet that allows them to send an amount of Ether that, at minimum, covers the transaction costs of the transaction, which will vary depending on the network load. The Trust Ethereum Wallet App for iOS/Android is a common solution.
 
 ### Installation Rider / Requirements
 
