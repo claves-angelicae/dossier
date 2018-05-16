@@ -56,11 +56,11 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/install3d.png"></a>
 
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/assets/experience.pdf)
+[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience.pdf)
 
 ### Experience Steps
 
-[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/assets/experience_design.pdf)
+[Download (PDF)](https://github.com/quilime/claves-angelicae-presskit/raw/master/assets/experience_design.pdf)
 
 <a href="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"><img src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/flow.png"></a>
 
