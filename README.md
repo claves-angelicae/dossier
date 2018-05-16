@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: README.html
+permalink: index.html
 ---
 <div class="header">
 <img width="550" src="https://raw.githubusercontent.com/quilime/claves-angelicae-presskit/master/assets/claves_logo_B.png" />
