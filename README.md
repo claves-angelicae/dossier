@@ -150,6 +150,7 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 ---
 
 <footer>
-claves angelicæ, 2018
+claves angelicæ, 2018  
+source: [https://github.com/claves-angelicae/dossier/](https://github.com/claves-angelicae/dossier/)
 </footer>
 
