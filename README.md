@@ -52,6 +52,7 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 <a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-15.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-15.png" style="width:196px" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-16.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-16.png" style="width:196px" /></a>
 
+[Download All](#assets)
 
 ## Experience
 
