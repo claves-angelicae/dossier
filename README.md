@@ -132,6 +132,10 @@ Gabriel Dunne
 ### Interactive programming
 
 Harvey Moon
+
+### Documentation Photography / Video
+
+Eric Fernandez
   
 ### Created with
 
