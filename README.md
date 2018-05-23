@@ -164,6 +164,10 @@ Gabriel Dunne's work represents his continuous exploration of visual, audible, a
 
 - 2018, May 11-12, [Ethereal Summit](https://etherealsummit.com/), Knockdown Center, Brooklyn NY
 
+## Project Support
+
+ETH: [0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF](https://etherscan.io/address/0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF#)
+
 ---
 
 <footer>
