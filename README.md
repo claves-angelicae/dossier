@@ -68,8 +68,12 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"></a>
 
-## Installation Format
+## Video
 
+[![Watch on Vimeo](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png)](https://vimeo.com/271507433)
+
+
+## Installation Format
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 
@@ -92,10 +96,6 @@ In order to cast their Word or desire to Ethereum’s distributed ledger and com
 - Power drop (1x 120v AC)
 - Folding table with 2x black chairs and black tablecloth
 - Installation area with floorspace of minimum 14 sq feet
-
-## Video
-
-[![Watch on Vimeo](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png)](https://vimeo.com/271507433)
 
 ## About
 
