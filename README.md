@@ -183,6 +183,6 @@ ETH: [0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF](https://etherscan.io/address/0
 ---
 
 <footer>
-claves angelicæ, 2018, <a href="https://github.com/claves-angelicae/dossier/">page source</a>
+claves angelicæ, 2018, <a href="https://github.com/claves-angelicae/">source</a>
 </footer>
 
