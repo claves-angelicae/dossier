@@ -93,6 +93,10 @@ In order to cast their Word or desire to Ethereum’s distributed ledger and com
 - Folding table with 2x black chairs and black tablecloth
 - Installation area with floorspace of minimum 14 sq feet
 
+## Video
+
+[![Watch on Vimeo](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png)](https://vimeo.com/271507433)
+
 ## About
 
 ### Creation, Design, and Development
