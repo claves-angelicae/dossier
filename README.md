@@ -8,15 +8,7 @@ permalink: index.html
 
 <a class="sigil" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 
-## Project Blurb
-
-Claves Angelicae is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
-
-## Project Statement (short)
-
-Claves Angelicæ is a procedure for constructing, enciphering, and casting a magical Word onto the Ethereum network. After the transaction is verified it is parsed and passed into a sigil generating algorithm and an inked paper talisman is drawn by a machine as a token of their spell.
-
-## Project Statement (long)
+## Statement
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
@@ -56,10 +48,6 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 ## Experience
 
-[Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
-
-<a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/flow.png"></a>
-
 ### o. Initiation
 Claves Angelicæ is a seven step process to guide one through the process of securely constructing a Word with an ‘Alphabet of Desire.’ This Alphabet of Desire is a mediation with one’s own libidinal framework. Magic has many aspects, but it primarily acts as a dramatized system of psychology. It is the science and art of causing change to occur in conformity with one’s Will. A magical spell is quite literally the spelling out of a Word. Once the Word is constructed within oneself it is set in motion by bringing it forth into grammar and sound. When completed one must seal it and cast it out into the Ethereum network.
 
@@ -83,7 +71,7 @@ contract daemon is invoked to route the Word to its destination. This destinatio
 ### vi. Sigil
 The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word's transaction record on Ethereum’s public ledger.
 
-## Sigil Generation
+## Sigil
 
 Sigils are generated with a graphical encryption algorithm based on the Rosy Cross.
 
@@ -96,15 +84,11 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 
 ## Installation Format
 
-[Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
-
-### 2D Plan
+Physical installation comprises of a podium within a 12' chalk circle.
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"></a>
 
-### 3D Iso
-
-<a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install3d.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install3d.png"></a>
+[Download](#assets)
 
 
 ## Experience Requirements for Attendees
@@ -147,6 +131,8 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 [Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
 
 - [Info Sheet (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_info_sheet.pdf)
+- [Links and Description (TXT)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.txt)
+- [Links and Description (RTF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.rtf)
 - [Installation (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 - [Interaction Flow (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
 - [Sigil Encryption (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/rose_cross.pdf)
@@ -176,6 +162,8 @@ Cullen Miller works in the substratum of aesthetics. Typified by dematerializati
 [@cullenmiller](https://twitter.com/cullenmiller)   
 
 ### Gabriel Dunne
+
+Gabriel Dunne is an artist, designer, programmer, and perfomer. With a background steming from music
 
 Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. 
 
