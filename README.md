@@ -34,6 +34,25 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 [Watch on Vimeo](https://vimeo.com/271507433)
 
+## Images
+
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-01.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-01.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-02.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-02.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-03.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-03.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-04.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-04.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-05.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-05.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-06.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-06.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-07.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-07.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-09.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-09.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-10.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-10.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-11.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-11.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-12.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-12.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-13.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-13.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-14.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-14.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-15.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-15.png" style="width:196px" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-16.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-16.png" style="width:196px" /></a>
+
+
 ## Experience
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
@@ -116,7 +135,7 @@ Harvey Moon
   
 ### Created with
 
-Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion
+Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMSL AxiDrawV3
 
 ## Assets
 
