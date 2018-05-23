@@ -8,7 +8,7 @@ permalink: index.html
 
 <a class="sigil" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
 
-## Statement
+<br /><br />
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
