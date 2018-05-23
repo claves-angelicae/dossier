@@ -163,8 +163,6 @@ Cullen Miller works in the substratum of aesthetics. Typified by dematerializati
 
 ### Gabriel Dunne
 
-Gabriel Dunne is an artist, designer, programmer, and perfomer. With a background steming from music
-
 Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. He was born in San Francisco.
 
 [Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Gabriel_Dunne_CV.pdf)  
