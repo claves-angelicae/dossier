@@ -37,8 +37,8 @@ Credits
 —
 Creation, Design, Development, Programming: Gabriel Dunne & Cullen Miller
 UX Programmer: Harvey Moon
+Documentation: Eric Fernandez
 Created with: Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMSL AxiDrawV3
-
 
 Artist Group Bio 
 --
