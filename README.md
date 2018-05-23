@@ -28,6 +28,10 @@ For common parlance let’s define what a sigil is: the encoding of desire or in
 
 Centralized authorities and trusted-third parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. "In God We Trust") where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without intermediation.
 
+## Video
+
+[![Watch on Vimeo](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png)](https://vimeo.com/271507433)
+
 ## Experience
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
@@ -67,11 +71,6 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 4. This 10-char string is used to trace a path to form a graphical sigil with the Alphabet of Desire, as shown below.
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"></a>
-
-## Video
-
-[![Watch on Vimeo](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png)](https://vimeo.com/271507433)
-
 
 ## Installation Format
 
