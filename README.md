@@ -32,6 +32,8 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 <a href="https://vimeo.com/271507433" target="_blank"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png" /></a>
 
+[Watch on Vimeo](https://vimeo.com/271507433)
+
 ## Experience
 
 [Download (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
