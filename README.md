@@ -141,7 +141,7 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 - [LogoType (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png)
 - [LogoType (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_W.png)
 
-## Group Collective Statement (short)
+## Group Collective Statement
 
 Gabriel Dunne and Cullen Miller are collaborators often found working within the confines of art. Respectively drawing from their backgrounds in design and music composition their practice is an assemblage of various forms of media finding mutuality in a search for the Outside. 
 
