@@ -82,6 +82,7 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 
 <a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"></a>
 
+
 ## Installation Format
 
 Physical installation comprises of a podium within a 12' chalk circle.
@@ -102,7 +103,35 @@ In order to cast their Word or desire to Ethereum’s distributed ledger and com
 - Folding table with 2x black chairs and black tablecloth
 - Installation area with floorspace of minimum 14 sq feet
 
-## About
+
+## Collective Statement
+
+Gabriel Dunne and Cullen Miller are collaborators often found working within the confines of art. Respectively drawing from their backgrounds in design and music composition their practice is an assemblage of various forms of media finding mutuality in a search for the Outside. 
+
+Their projects and performances are typified by creating technical systems that defy bounded rationality. Their work probes into subconscious immaterial processes by leveraging computational materials as a vehicle into complexity. Their aesthetics are typically not constrained by a controlled practice but, rather, tend to be emergent unknowns retrieved from systems. Rather than setting forth to construct a preordained form their practice typically involves tending generative machine processes as a way of excavating ideas from the Outside.
+
+## Biography
+ 
+### Cullen Miller 
+
+Cullen Miller is a sound-system artist, spatial-media designer, and curator. His projects vary in nature but typically fall within the spectrum of sound design, installation, composition, and systems design. Reared in Detroit, he relocated to San Francisco pursuing curatorial work with Gray Area Foundation, SFCMP, and to teach digital signal processing at San Francisco State University. He currently spends his days designing and constructing technical systems at Obscura Digital. He has released recordings under numerous aliases and organizes the concert series, FINITE. His performances and installations have been exhibited internationally in museums, galleries, and clubs.
+
+[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Cullen_Miller_CV.pdf)  
+[pointlinesurface.com](http://pointlinesurface.com)  
+[@cullenmiller](https://twitter.com/cullenmiller)   
+
+### Gabriel Dunne
+
+Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. He was born in San Francisco.
+
+[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Gabriel_Dunne_CV.pdf)  
+[gabrieldunne.com](http://gabrieldunne.com)  
+[@gabrieldunne](https://twitter.com/gabrieldunne)  
+
+
+
+
+## Credits
 
 ### Creation, Design, and Development
 
@@ -126,6 +155,7 @@ Eric Fernandez
 
 Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMSL AxiDrawV3
 
+
 ## Assets
 
 [Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
@@ -140,30 +170,6 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 - [Logo (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_W.png)
 - [LogoType (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png)
 - [LogoType (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_W.png)
-
-## Group Collective Statement
-
-Gabriel Dunne and Cullen Miller are collaborators often found working within the confines of art. Respectively drawing from their backgrounds in design and music composition their practice is an assemblage of various forms of media finding mutuality in a search for the Outside. 
-
-Their projects and performances are typified by creating technical systems that defy bounded rationality. Their work probes into subconscious immaterial processes by leveraging computational materials as a vehicle into complexity. Their aesthetics are typically not constrained by a controlled practice but, rather, tend to be emergent unknowns retrieved from systems. Rather than setting forth to construct a preordained form their practice typically involves tending generative machine processes as a way of excavating ideas from the Outside.
-
-## Biography
- 
-### Cullen Miller 
-
-Cullen Miller is a sound-system artist, spatial-media designer, and curator. His projects vary in nature but typically fall within the spectrum of sound design, installation, composition, and systems design. Reared in Detroit, he relocated to San Francisco pursuing curatorial work with Gray Area Foundation, SFCMP, and to teach digital signal processing at San Francisco State University. He currently spends his days designing and constructing technical systems at Obscura Digital. He has released recordings under numerous aliases and organizes the concert series, FINITE. His performances and installations have been exhibited internationally in museums, galleries, and clubs.
-
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Cullen_Miller_CV.pdf)  
-[pointlinesurface.com](http://pointlinesurface.com)  
-[@cullenmiller](https://twitter.com/cullenmiller)   
-
-### Gabriel Dunne
-
-Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. He was born in San Francisco.
-
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Gabriel_Dunne_CV.pdf)  
-[gabrieldunne.com](http://gabrieldunne.com)  
-[@gabrieldunne](https://twitter.com/gabrieldunne)  
 
 
 ## Exhibition History
