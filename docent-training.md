@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claves Angelicae
 ### Docent Training
 
