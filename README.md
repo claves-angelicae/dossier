@@ -174,7 +174,8 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 
 ## Exhibition History
 
-- 2018, May 11-12, [Ethereal Summit](https://etherealsummit.com/), Knockdown Center, Brooklyn NY
+- 2018, May 11, [Ethereal Summit](https://etherealsummit.com/), Brooklyn NY
+- 2018, June 23, [Distributed Systems](https://grayarea.org/event/distributed-systems-exhibition-at-gray-area-festival/), San Francisco CA
 
 ## Project Support
 
