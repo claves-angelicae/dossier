@@ -163,6 +163,7 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 - [Info Sheet (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_info_sheet.pdf)
 - [Links and Description (TXT)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.txt)
 - [Links and Description (RTF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.rtf)
+- [Framing and Display Spec (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_framing_and_display_spec.pdf)
 - [Installation (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 - [Interaction Flow (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
 - [Sigil Encryption (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/rose_cross.pdf)
