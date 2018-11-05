@@ -175,8 +175,11 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 
 ## Exhibition History
 
-- 2018, May 11, [Ethereal Summit](https://etherealsummit.com/), Brooklyn NY
-- 2018, June 23, [Distributed Systems](https://grayarea.org/event/distributed-systems-exhibition-at-gray-area-festival/), San Francisco CA
+- 2018, May 11, [Ethereal Summit](https://etherealsummit.com/), Brooklyn NY USA
+- 2018, June 23, [Distributed Systems](https://grayarea.org/event/distributed-systems-exhibition-at-gray-area-festival/), San Francisco CA USA
+- 2018, Oct 22, [Web3 Summit](https://web3summit.com/), Funkhaus, Berlin Germany
+- 2018, Nov 17, [{PERFECT & PRICELESS}](https://www.katevassgalerie.com/exhibitions/25/overview/), Kate Vass Galerie, Zurich Switzerland
+
 
 ## Project Support
 
