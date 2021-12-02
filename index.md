@@ -3,7 +3,7 @@ layout: default
 permalink: index.html
 ---
 <div class="header">
-<img width="550" src="  assets/claves_logo_B.png" />
+<img width="550" src="assets/claves_logo_B.png" />
 </div>
 
 <a class="sigil" href="assets/claves_angelicae_sigil_B.png"><img class="sigil" src="assets/claves_angelicae_sigil_B.png" width="300"></a>
