@@ -3,10 +3,10 @@ layout: default
 permalink: index.html
 ---
 <div class="header">
-<img width="550" src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png" />
+<img width="550" src="  assets/claves_logo_B.png" />
 </div>
 
-<a class="sigil" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png"><img class="sigil" src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png" width="300"></a>
+<a class="sigil" href="assets/claves_angelicae_sigil_B.png"><img class="sigil" src="assets/claves_angelicae_sigil_B.png" width="300"></a>
 
 <br /><br />
 
@@ -22,27 +22,27 @@ Centralized authorities and trusted-third parties (churches & banks) shape our c
 
 ## Video
 
-<a href="https://vimeo.com/271507433" target="_blank"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/vimeo-embed.png" /></a>
+<a href="https://vimeo.com/271507433" target="_blank"><img src="assets/vimeo-embed.png" /></a>
 
 [Watch on Vimeo](https://vimeo.com/271507433)
 
 ## Images
 
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-01.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-01.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-02.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-02.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-03.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-03.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-04.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-04.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-05.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-05.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-06.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-06.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-07.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-07.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-09.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-09.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-10.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-10.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-11.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-11.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-12.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-12.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-13.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-13.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-14.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-14.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-15.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-15.png" style="width:196px" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/clavesangelicae-16.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/images/thumbs/clavesangelicae-16.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-01.png"><img src="images/thumbs/clavesangelicae-01.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-02.png"><img src="images/thumbs/clavesangelicae-02.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-03.png"><img src="images/thumbs/clavesangelicae-03.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-04.png"><img src="images/thumbs/clavesangelicae-04.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-05.png"><img src="images/thumbs/clavesangelicae-05.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-06.png"><img src="images/thumbs/clavesangelicae-06.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-07.png"><img src="images/thumbs/clavesangelicae-07.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-09.png"><img src="images/thumbs/clavesangelicae-09.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-10.png"><img src="images/thumbs/clavesangelicae-10.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-11.png"><img src="images/thumbs/clavesangelicae-11.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-12.png"><img src="images/thumbs/clavesangelicae-12.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-13.png"><img src="images/thumbs/clavesangelicae-13.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-14.png"><img src="images/thumbs/clavesangelicae-14.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-15.png"><img src="images/thumbs/clavesangelicae-15.png" style="width:196px" /></a>
+<a href="images/clavesangelicae-16.png"><img src="images/thumbs/clavesangelicae-16.png" style="width:196px" /></a>
 
 [Download All](#assets)
 
@@ -80,14 +80,14 @@ Sigils are generated with a graphical encryption algorithm based on the Rosy Cro
 3. Every 10th character of the hash is appended to a new string until the string is 10 characters long.
 4. This 10-char string is used to trace a path to form a graphical sigil with the Alphabet of Desire, as shown below.
 
-<a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/sigil.png"></a>
+<a href="assets/sigil.png"><img src="assets/sigil.png"></a>
 
 
 ## Installation Format
 
 Physical installation comprises of a podium within a 12' chalk circle.
 
-<a href="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"><img src="https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/install2d.png"></a>
+<a href="assets/install2d.png"><img src="assets/install2d.png"></a>
 
 [Download](#assets)
 
@@ -116,7 +116,7 @@ Their projects and performances are typified by creating technical systems that 
 
 Cullen Miller is a sound-system artist, spatial-media designer, and curator. His projects vary in nature but typically fall within the spectrum of sound design, installation, composition, and systems design. Reared in Detroit, he relocated to San Francisco pursuing curatorial work with Gray Area Foundation, SFCMP, and to teach digital signal processing at San Francisco State University. He currently spends his days designing and constructing technical systems at Obscura Digital. He has released recordings under numerous aliases and organizes the concert series, FINITE. His performances and installations have been exhibited internationally in museums, galleries, and clubs.
 
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Cullen_Miller_CV.pdf)  
+[Download CV (PDF)](assets/Cullen_Miller_CV.pdf)
 [pointlinesurface.com](http://pointlinesurface.com)  
 [@cullenmiller](https://twitter.com/cullenmiller)   
 
@@ -124,7 +124,7 @@ Cullen Miller is a sound-system artist, spatial-media designer, and curator. His
 
 Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. He was born in San Francisco.
 
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Gabriel_Dunne_CV.pdf)  
+[Download CV (PDF)](assets/Gabriel_Dunne_CV.pdf)
 [gabrieldunne.com](http://gabrieldunne.com)  
 [@gabrieldunne](https://twitter.com/gabrieldunne)  
 
@@ -161,16 +161,16 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 [Download All (ZIP)](https://github.com/claves-angelicae/dossier/archive/master.zip)
 
 - [Info Sheet (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_info_sheet.pdf)
-- [Links and Description (TXT)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.txt)
-- [Links and Description (RTF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/Links_and_Description.rtf)
+- [Links and Description (TXT)](Links_and_Description.txt)
+- [Links and Description (RTF)](Links_and_Description.rtf)
 - [Framing and Display Spec (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/claves_angelicae_framing_and_display_spec.pdf)
 - [Installation (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/experience.pdf)
 - [Interaction Flow (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/interaction_flow.pdf)
 - [Sigil Encryption (PDF)](https://github.com/claves-angelicae/dossier/raw/master/assets/rose_cross.pdf)
-- [Logo (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_B.png)
-- [Logo (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_angelicae_sigil_W.png)
-- [LogoType (Black)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_B.png)
-- [LogoType (White)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/claves_logo_W.png)
+- [Logo (Black)](assets/claves_angelicae_sigil_B.png)
+- [Logo (White)](assets/claves_angelicae_sigil_W.png)
+- [LogoType (Black)](assets/claves_logo_B.png)
+- [LogoType (White)](assets/claves_logo_W.png)
 
 
 ## Exhibition History
