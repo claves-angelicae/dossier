@@ -16,15 +16,15 @@ The seven step process is designed to collect and transmute the participants’ 
 
 Cryptography and magic have a deep, intertwined history dating back to the origins of writing. During the European dark ages monastic sects bore the responsibility of keeping the rites of the sacred ancient mystery cults of Egypt and Greece intact. However, in doing so they ran the risk of being burned at the stake for committing crimes of heresy. Some of them developed cryptographic systems to encode these secrets into their manuscripts. 
 
-The Benedictine abbott, cryptographer, and occultist, Trithemius authored the triparite tome ‘Steganographia’, a seminal codex in the history of cryptography. Trithemius’ preface to the ‘Polygraphia’ establishes the everyday practicability of cryptography as a “secular consequent of the ability of a soul specially empowered by God to reach, by magical means, from earth to Heaven.”
+The Benedictine abbott, cryptographer, and occultist, Trithemius authored the triparite tome *Steganographia*, a seminal codex in the history of cryptography. Trithemius’ preface to the *Polygraphia* establishes the everyday practicability of cryptography as a “secular consequent of the ability of a soul specially empowered by God to reach, by magical means, from earth to Heaven.”
 
 It was not only monks working with ciphers but also natural magicians and occultists. The latter groups weren’t only using cryptography to obfuscate sensitive information, but also to devise keys and linguistic frameworks for communicating into the ethereal realms. By devising new linguistic schemata these magicians believed that they could access the preternatural realms outside the worlds they were exploring in their scientific pursuits. Although the blockchain space is largely secularized, the principles of the Ethereum network is a manifest dream of the ancient magi. Magicians are the original cypherpunks.
 
-Solidity is a grimoire (Latin ‘grammaire’) or book of magical grammar. Smart contracts are dæmons invoked to enact our Will. Pentacles are cryptographic tokens for binding dæmons and storing value. Magical codes of ethics are emblematized in protocol authorship. Salt, an alchemical primes, is a cryptographic primitive that serves as random data used as an additional input to a one-way function encrypting the message. Sigils are graphical databases used for storing enciphered information.
+Solidity is a grimoire (Latin *grammaire*) or book of magical grammar. Smart contracts are dæmons invoked to enact our Will. Pentacles are cryptographic tokens for binding dæmons and storing value. Magical codes of ethics are emblematized in protocol authorship. DAOs are Enochian Irim (egregores): emergent entities formed by groups of magicians collectively constructing a shared, single thought. Salt, an alchemical primes, is a cryptographic primitive that serves as random data used as an additional input to a one-way function encrypting the message. Sigils are graphical databases used for storing enciphered information.
 
-For common parlance let’s define what a sigil is: the encoding of desire or intent into a symbol. The Latin sigillum, means ‘seal’, though it is likely derived from the Hebrewהלוגס  (segula) meaning ‘word, action, or talisman’. Common examples of crypto-sigils are Johannes Trithemius’ experiments in ‘Steganographia’, Giordano Bruno’s mnemonic devices, John Dee’s Sigillum Dei Aemaeth, and innumerable others.
+For common parlance let’s define what a sigil is: the encoding of desire or intent into a symbol. The Latin *sigillum*, means ‘seal’, likely derived from the Hebrew הלוגס  (*segula*) meaning ‘word, action, or talisman’. Common examples of crypto-sigils are Johannes Trithemius’ experiments in *Steganographia*, Giordano Bruno’s mnemonic devices, John Dee’s Sigillum Dei Aemaeth, and innumerable others.
 
-Centralized authorities and trusted-third parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. “In God We Trust”) where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without permission.
+Centralized authorities and trusted third-parties (churches & banks) shape our cultures into monotheistic tendencies (e.g. “In God We Trust”) where priests or bankers arbitrate and broker access to the value system. Whereas decentralized systems allow for a plurality of deities to inhabit the Ether and entrust magicians to enact their Will without permission.
 
 ## Video
 
@@ -65,17 +65,17 @@ Within each self there is a natural fortress: the Soul impregnable. However beyo
 “In the beginning there was the Word (Logos).” A Word is twofold: internal and uttered. The internal Word is a conception of the mind, and motion of the soul, which is made without a voice. The Word is to be silently contemplated. The Logos is the generative principle which impregnates potentiality. The semiotics of magic are thus: the map is not the territory. The Name is the thing itself.
 
 ### iii. Incantation
-The Word is twofold: internal and uttered. An uttered word is the internal Word brought forth through breath into vibration. Through this act of locution the Will sets the Word in motion. Incantation is derived from the Latin ‘incantare’ meaning “to enchant, cast a spell.” The infamous magical word ‘Abracadabra’ is derived from the Aramaic meaning “I create as I speak.” Language operates as the material mediation between subconscious desires and the conscious mind. The Word is the Will encoded into a substrate for transmission. It is through incantation that the Word is set in motion.
+The Word is twofold: internal and uttered. An uttered word is the internal Word brought forth through breath into vibration. Through this act of locution the Will sets the Word in motion. Incantation is derived from the Latin *incantare* meaning “to enchant, cast a spell.” The infamous magical word ‘Abracadabra’ is derived from the Aramaic meaning “I create as I speak.” Language operates as the material mediation between subconscious desires and the conscious mind. The Word is the Will encoded into a substrate for transmission. It is through incantation that the Word is set in motion.
 
 ### iv. Seal
-Sealing is the act of encrypting a message. A Sigil is the encoding of desire or intent into a symbol. The Latin sigillum means ‘seal’. The Hebrewהלוגס  (segula) meaning ‘word, action, or talisman’. The sigil traces the paths of the majestic alphabet of the ancient magi with the Rosy Cross as its key.
+Sealing is the act of encrypting a message. A sigil is the encoding of desire or intent into a symbol. The Latin *sigillum* means ‘seal’. The Hebrew הלוגס (*segula*) meaning ‘word, action, or talisman’. The sigil traces the paths of the majestic alphabet of the ancient magi with the Rosy Cross as its key.
 
 ### v. Casting
 Once the Word has been synthesized and prepared for secure transmission on the network it must be activated by casting it out. Once the spell is cast a smart
 contract daemon is invoked to route the Word to its destination. This destination address is assigned by selecting a cardinal direction to where the Word is to be cast. After the spell is completed the Word is inscribed onto the distributed ledger of the Ethereum network.
 
 ### vi. Sigil
-The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word's transaction record on Ethereum’s public ledger.
+The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word’s transaction record on Ethereum’s public ledger.
 
 ## Sigil
 
