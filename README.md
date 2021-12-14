@@ -186,6 +186,9 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 - 2018, Oct 22, [Web3 Summit](https://web3summit.com/), Funkhaus, Berlin Germany
 - 2018, Nov 17, [{PERFECT & PRICELESS}](https://www.katevassgalerie.com/exhibitions/25/overview/), Kate Vass Galerie, Zurich Switzerland
 
+## NFT 
+
+- 2021, December, <a href="https://clavesangelicae.com/">Claves Angelicæ NFT</a>
 
 ## Project Support
 
@@ -194,6 +197,6 @@ ETH: [0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF](https://etherscan.io/address/0
 ---
 
 <footer>
-claves angelicæ, 2018, <a href="https://github.com/claves-angelicae/">source</a>
+claves angelicæ, March 2018, <a href="https://github.com/claves-angelicae/">source</a>
 </footer>
 
