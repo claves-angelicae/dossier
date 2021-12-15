@@ -10,6 +10,10 @@ permalink: index.html
 
 <br /><br />
 
+<span>March, 2018</span>
+
+<br /><br />
+
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
 The seven step process is designed to collect and transmute the participants’ input data into an encrypted message. For the participant to cast their Word they must transmit Ether to a preselected set of charities. Once the spell has been cast and verified by the consensus pool, the transaction signature’s hash is returned, parsed, and passed into a sigil generating algorithm. The participant receives an inked paper talisman authored by an mechanical drawing machine as a tokenized sigil of their spell.
@@ -54,27 +58,26 @@ Centralized authorities and trusted third-parties (churches & banks) shape our c
 
 ## Experience
 
-### o. Initiation
+### i. Initiation
 Claves Angelicæ is a seven step process to guide one through the process of securely constructing a Word with an ‘Alphabet of Desire.’ This Alphabet of Desire is a mediation with one’s own libidinal framework. Magic has many aspects, but it primarily acts as a dramatized system of psychology. It is the science and art of causing change to occur in conformity with one’s Will. A magical spell is quite literally the spelling out of a Word. Once the Word is constructed within oneself it is set in motion by bringing it forth into grammar and sound. When completed one must seal it and cast it out into the Ethereum network.
 
-### i. Banishing
+### ii. Banishing
 Within each self there is a natural fortress: the Soul impregnable. However beyond this central citadel, one also has outerworks which are vulnerable and susceptible to violation. Banishing rites are twofold: Firstly, it provides a cleansing and maintenance of the walls of the fortress. Secondly, it operates as a firewall for the body and the space surrounding it. This allows for secure outbound transmissions of magical Words (spells) while fortifying and consecrating the Magician in a bastion away from exploits and malicious attacks. This banishing rite is OpSec 101 for the neophyte occultist.
 
-
-### ii. Logos
+### iii. Logos
 “In the beginning there was the Word (Logos).” A Word is twofold: internal and uttered. The internal Word is a conception of the mind, and motion of the soul, which is made without a voice. The Word is to be silently contemplated. The Logos is the generative principle which impregnates potentiality. The semiotics of magic are thus: the map is not the territory. The Name is the thing itself.
 
-### iii. Incantation
+### iv. Incantation
 The Word is twofold: internal and uttered. An uttered word is the internal Word brought forth through breath into vibration. Through this act of locution the Will sets the Word in motion. Incantation is derived from the Latin *incantare* meaning “to enchant, cast a spell.” The infamous magical word ‘Abracadabra’ is derived from the Aramaic meaning “I create as I speak.” Language operates as the material mediation between subconscious desires and the conscious mind. The Word is the Will encoded into a substrate for transmission. It is through incantation that the Word is set in motion.
 
-### iv. Seal
+### v. Seal
 Sealing is the act of encrypting a message. A sigil is the encoding of desire or intent into a symbol. The Latin *sigillum* means ‘seal’. The Hebrew הלוגס (*segula*) meaning ‘word, action, or talisman’. The sigil traces the paths of the majestic alphabet of the ancient magi with the Rosy Cross as its key.
 
-### v. Casting
+### vi. Casting
 Once the Word has been synthesized and prepared for secure transmission on the network it must be activated by casting it out. Once the spell is cast a smart
 contract daemon is invoked to route the Word to its destination. This destination address is assigned by selecting a cardinal direction to where the Word is to be cast. After the spell is completed the Word is inscribed onto the distributed ledger of the Ethereum network.
 
-### vi. Sigil
+### vii. Sigil
 The daemon listening for the cryptographically signed acknowledgement of transfer is animated to draw the Sigil onto a paper talisman with a mechanical writing machine when it can verify that the Word has been authored. The Sigil is both sign and signifier of the encrypted Word’s transaction record on Ethereum’s public ledger.
 
 ## Sigil
@@ -116,42 +119,20 @@ Gabriel Dunne and Cullen Miller are collaborators often found working within the
 
 Their projects and performances are typified by creating technical systems that defy bounded rationality. Their work probes into subconscious immaterial processes by leveraging computational materials as a vehicle into complexity. Their aesthetics are typically not constrained by a controlled practice but, rather, tend to be emergent unknowns retrieved from systems. Rather than setting forth to construct a preordained form their practice typically involves tending generative machine processes as a way of excavating ideas from the Outside.
 
-## Biography
- 
-### Cullen Miller 
-
-Cullen Miller is a systems artist, spatial-media designer, and composer. His projects vary in nature but typically fall within the spectrum of media architecture, sound design, installation, composition, and systems design. He currently splits his time between Berlin and San Francisco designing and engineering technical systems for large-scale architectural developments. He has released recordings under numerous aliases and organizes the concert series, FINITE. His performances and installations have been exhibited internationally in various museums, galleries, and clubs.
-
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Cullen_Miller_CV.pdf)  
-[pointlinesurface.com](http://pointlinesurface.com)  
-[@cullenmiller](https://twitter.com/cullenmiller)   
-
-### Gabriel Dunne
-
-Gabriel Dunne's work represents his continuous exploration of visual, audible, and physical frequencies of natural and technological perceptual and imperceptible realities. His process utilizes design, music, sound, architecture, and materiality. Other facets of his practice synthesize and integrate structures and rhythms of the natural world. His work ranges from custom software and hardware systems, performance tools, and physical installations and public intervention. He was born in San Francisco.
-
-[Download CV (PDF)](https://raw.githubusercontent.com/claves-angelicae/dossier/master/assets/Gabriel_Dunne_CV.pdf)  
-[gabrieldunne.com](http://gabrieldunne.com)  
-[@gabrieldunne](https://twitter.com/gabrieldunne)  
-
-
-
 
 ## Credits
 
 ### Creation, Design, and Development
 
 Cullen Miller  
-[pointlinesurface.com](http://pointlinesurface.com)  
-[@cullenmiller](https://twitter.com/cullenmiller)   
 
 Gabriel Dunne  
-[gabrieldunne.com](http://gabrieldunne.com)  
-[@gabrieldunne](https://twitter.com/gabrieldunne)
+
 
 ### Interactive programming
 
 Harvey Moon
+
 
 ### Documentation Photography / Video
 
