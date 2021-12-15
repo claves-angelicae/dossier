@@ -12,7 +12,7 @@ permalink: index.html
 
 <span>March, 2018</span>
 
-<br /><br />
+<br />
 
 Claves Angelicæ is an installation and procedural system that enables a participant to inscribe a magical Word onto the Ethereum network. 
 
@@ -122,7 +122,7 @@ Their projects and performances are typified by creating technical systems that 
 
 ## Credits
 
-### Creation, Design, and Development
+### Created By
 
 [Cullen Miller](http://pointlinesurface.com/)
 
