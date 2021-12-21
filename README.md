@@ -175,9 +175,13 @@ Ethereum, Solidity, Python, JavaScript, Node.js, TouchDesigner, Leap Motion, EMS
 
 ETH: [0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF](https://etherscan.io/address/0xBd78EB42c0A6db5EcD523Ce794c2B66aF3874ceF#)
 
+## Discord
+
+<a href="https://discord.gg/k3t55xXJEX">Project Discord</a>
+
 ---
 
 <footer>
-claves angelicæ, March 2018, <a href="https://github.com/claves-angelicae/">source</a>
+Claves Angelicæ, March 2018, <a href="https://github.com/claves-angelicae/">source</a>
 </footer>
 
